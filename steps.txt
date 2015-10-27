@@ -9,3 +9,7 @@ git commit -m «Initial commit»
 git remote add origin https://github.com/celebritas/basic_repo.git
 git push origin master
 git touch steps.txt
+Add content into steps.txt
+git add steps.txt
+git commit -m «Add steps.txt»
+git push origin master
