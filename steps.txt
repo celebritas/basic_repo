@@ -1,0 +1,11 @@
+Create new repo on Github
+mkdir basic_repo
+cd basic_repo
+git init
+touch index.html style.css
+Add content
+git add .
+git commit -m «Initial commit»
+git remote add origin https://github.com/celebritas/basic_repo.git
+git push origin master
+git touch steps.txt
